@@ -30,6 +30,9 @@ public class UserProfile
         userID = givenID;
         genre= givenGenre;
     }
+    public UserProfile(){
+        
+    }
 
     /**
      * A getter for the userID
