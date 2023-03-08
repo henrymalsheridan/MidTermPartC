@@ -13,6 +13,7 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  * malik henry 2023
+ * midterm comments via github 2023, malik henry
  */
 public class UserProfile 
 {
